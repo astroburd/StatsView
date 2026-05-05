@@ -3,11 +3,11 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "AuthorName"
-name = "ModName"
+namespace = "astroburd"
+name = "StatsView"
 versionNumber = "0.0.1"
-description = "Allows to do some super duper thing."
-websiteUrl = "https://github.com/AuthorName/ModName"
+description = "A Hades 2 mod that displays general stats such as crit chance, dodge chance, attack power and more."
+websiteUrl = "https://https://github.com/astroburd/StatsView"
 containsNsfwContent = false
 
 [package.dependencies]
