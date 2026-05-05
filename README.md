@@ -1,2 +1,15 @@
-# StatsViewer
-A Hades 2 mod that displays general stats such as crit chance, dodge chance, attack power and more.
+# Mod name
+
+Hades II mod allowing to do some super duper thing.
+
+## Features
+
+- Wow.
+- Much cool.
+  - Very doge.
+
+## Install
+
+- Do this.
+- Do that.
+  - Nope, not that.
